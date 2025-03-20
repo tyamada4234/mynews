@@ -16,7 +16,7 @@
 
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
         <!-- link href="{{ asset('css/admin.css') }}" rel="stylesheet" -->
-        <link href="{{ asset('css/profile.css') }}" rel="stylesheet">
+        <link href="{{ asset('css/frontprofile.css') }}" rel="stylesheet">
 
     </head>
 

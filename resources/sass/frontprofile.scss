@@ -1,0 +1,40 @@
+body {
+    color: #000;
+  }
+  
+  .navbar-laravel {
+    background-color: #000;
+  }
+  
+  .header {
+    .logo {
+        width: 120px;
+        height: 82px;
+    }
+  }
+  
+  
+  .posts {
+    .post {
+      .date {
+        font-size: 0.6em;
+        color: #999999;
+      }
+      .name {
+        font-size: 1.2em;
+        font-weight: bold;
+      }
+      .gender {
+        font-size: 1.2em;
+        font-weight: bold;
+      }
+      .hobby {
+        font-size: 1.2em;
+        font-weight: bold;
+      }
+      .introduction {
+        font-size: 0.8em;
+      }
+      
+    }
+  }
